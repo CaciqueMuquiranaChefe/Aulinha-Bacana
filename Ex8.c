@@ -27,7 +27,8 @@ int main()
 
     soma1 = prod1.peso + prod2.peso;
     soma2 = prod1.preco + prod2.preco;
-printf("Preco somado: %d \n Peso somado: %d",soma1, soma2);
+printf("Preco somado: %d \n Peso somado: %d",soma2, soma1);
      return 0;
+
 
 }
